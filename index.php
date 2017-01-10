@@ -2,18 +2,21 @@
 <html lang="en">
     <head>
         <meta charset="utf-8"/>
+
+            <!-- load custom css here -->
+        <link  href="css/style.css" rel="stylesheet" type="text/css" />
     </head>
+    <title> HTML SANDBOX </title>
     <header><h1>This is a FUCKING DEMO PAGE!</h1></header>
+    <body>
 
-        <!-- start slipsum code -->
 
-<body>
     <main><p>Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some pilots get picked and become television programs. Some don't, become nothing. She starred in one of the ones that became nothing.
 
         <!-- end slipsum code -->
         <!-- start slipsum code -->
 
-        Now that there is the Tec-9, a crappy spray gun from South Miami. This gun is advertised as the most popular gun in American crime. Do you believe that shit? It actually says that in the little book that comes with it: the most popular gun in American crime. Like they're actually proud of that <em><strong>shit.</strong></em></p></main>
+        <p>Now that there is the Tec-9, a crappy spray gun from South Miami. This gun is advertised as the most popular gun in American crime. Do you believe that shit? It actually says that in the little book that comes with it: the most popular gun in American crime. Like they're actually proud of that <em><strong>shit.</strong></em></p></main>
         <h2> A few of Sam's Favorite Things</h2>
     <ul>
         <li>Keeping Cool.</li>
@@ -40,9 +43,7 @@
         </tr>
     </table>
 
-        <img src="images/Sam-fucking-jack.jpg" alt="Sam-fucking-jack"/a>
-    <p>This is a link to <a href="https://google.com" target="_blank"</p>
-
-
+    <img src="images/Sam-fucking-jack.jpg" alt="Sam-fucking-jack"/a>
+   <p> This is a link to <a href="https://google.com"target="_blank"> Google </a> </p>
     </body>
 </html>
