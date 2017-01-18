@@ -114,8 +114,7 @@ class Profile {
         if($newLastName === false) {
             throw(new UnexpectedValueException("last name is not a valid string"));
         }
-        //** store the last naem */
+        //** store the last name */
         $this->lastName = $newLastName;
     }
 }
-?>
