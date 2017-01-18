@@ -77,7 +77,7 @@ class Profile {
      * @return string value of first name
      */
     public function getFirstName(){
-        return($this->firstname);
+        return($this->firstName);
     }
     /**
      * mutator method for first name
